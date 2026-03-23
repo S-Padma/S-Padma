@@ -144,3 +144,5 @@ Because even developers need a little magic outside of code.
 
 ### 📚 Learning Journey
 #NeverStopLearning #CodingJourney #TechInnovation #ContinuousImprovement #DSAMastery
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=GITHUB-USERNAME&label=Profile%20views&color=ce9927&style=flat" alt="GITHUB-USERNAME" /> </p>
