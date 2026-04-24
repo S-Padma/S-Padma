@@ -145,4 +145,4 @@ Because even developers need a little magic outside of code.
 ### 📚 Learning Journey
 #NeverStopLearning #CodingJourney #TechInnovation #ContinuousImprovement #DSAMastery
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=SAR-PMA&color=blue" alt="Profile Views"  width="200" height="200" > </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=SAR-PMA&color=blue" alt="Profile Views"  width="200" height="100" > </p>
